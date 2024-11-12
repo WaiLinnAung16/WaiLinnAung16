@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Wai Linn Aung</h1>
-<h3 align="center">A passionate frontend developer from Myanmar.I create user-friendly interfaces for fast-growing startups.</h3>
+<h1 align="left">Hi 👋, I'm Wai Linn Aung</h1>
+<h1 align='left'>Crafting Seamless Frontend Experiences from Myanmar 🌏</h1>
+<h3 align="left">I'm a frontend developer dedicated to building intuitive, user-friendly interfaces that help fast-growing startups thrive. Let's bring innovative ideas to life together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wailinnaung16&label=Profile%20views&color=0e75b6&style=flat" alt="wailinnaung16" /> </p>
 
